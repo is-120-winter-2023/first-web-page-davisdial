@@ -1,4 +1,4 @@
-.titlefont
+h1
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 75px;
@@ -10,10 +10,11 @@
     text-align: center;
 }
 
-.bodyfont
+h2
 {
     font-family: 'Courier New', Courier, monospace;
     font-size: x-large;
+    font-weight: 100;
     color: darkgray;
     margin-left: 200px;
     margin-right: 200px;
@@ -29,8 +30,9 @@ height: auto;
 
 .img1
 {
-height: fit-content;
 align-items: center;
+margin-left: 23vw;
+margin-right: 25vw;
 }
 
 .bg2
